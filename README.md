@@ -1,6 +1,6 @@
 # Flutter Articles UI Challenge
 
-https://github.com/copmorty/flutter_articles_ui/assets/23016725/5a326975-8633-41a4-b2bd-fc0b4e0c212a
+https://github.com/lucky93agarwal/flutter_articles_sliding_ui/assets/53622073/7614b288-4a78-4ce3-9dc9-109920b7c3ef
 
 ## Description
 
